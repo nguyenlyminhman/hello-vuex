@@ -1,4 +1,4 @@
-# vuex-research
+# hello-vuex
 
 ## Project setup
 ```
